@@ -7,10 +7,10 @@ Linux and OS X script that uploads your mouse selection to your server for easy 
 
 Edit the following fields in screenshot.sh:
 
-*HOST 
-*USER
-*UPLOAD_PATH
-*BASE_URL
+* HOST 
+* USER
+* UPLOAD_PATH
+* BASE_URL
 
 *note: script assumes that you're authorized to access the host without using a password.*
 
