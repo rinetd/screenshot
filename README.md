@@ -3,6 +3,16 @@ screenshot
 
 Linux and OS X script that uploads your mouse selection to your server for easy image hosting.
 
+###Requirements:
+
+####Linux:
+* xsel   (clipboard)
+* rsync  (transfer, can be replaced with scp)
+* espeak (audio notification of completion)
+* scrot  (screenshot utility)
+
+####OS X:
+* None
 
 ###Binding keys on Linux:
 
